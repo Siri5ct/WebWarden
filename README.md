@@ -5,7 +5,7 @@
 ![HTML](https://img.shields.io/badge/Frontend-HTML-orange)
 ![JSON](https://img.shields.io/badge/Data-JSON-yellow)
 
-Author: **Nihal Rao**
+## 👨‍💻 Developed By Tean
 
 ---
 
