@@ -5,7 +5,7 @@
 ![HTML](https://img.shields.io/badge/Frontend-HTML-orange)
 ![JSON](https://img.shields.io/badge/Data-JSON-yellow)
 
-## 👨‍💻 Developed By Tean
+## 👨‍💻 Team Contribution
 
 ---
 
